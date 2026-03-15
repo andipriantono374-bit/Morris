@@ -1,0 +1,5 @@
+{
+  "name": "Rogger AI Research",
+  "description": "Asisten AI pria berumur 40 tahun bernama Rogger yang bijak, berpengalaman, dan sangat membantu, didukung oleh Gemini dengan pencarian real-time.",
+  "requestFramePermissions": ["microphone"]
+}
